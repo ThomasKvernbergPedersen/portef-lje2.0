@@ -24,6 +24,10 @@
   background-position: center;
   background-size: cover; */
 
+  .text-color-main {
+    color: aquamarine;
+  }
+
   @include respond(phone) {
     padding: 0rem $default-font-size;
   }
