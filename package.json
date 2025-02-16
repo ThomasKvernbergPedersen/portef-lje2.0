@@ -1,7 +1,7 @@
 {
   "name": "simplefolio",
   "version": "1.0.1",
-  "private": true,
+  "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
@@ -19,18 +19,14 @@
     "url": "https://github.com/cobiwave/simplefolio/issues"
   },
   "homepage": "https://github.com/cobiwave/simplefolio#readme",
-  "engines": {
-    "node": ">=18"
-  },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.13.3",
-    "parcel": "^2.13.3",
-    "prettier": "^2.8.1",
-    "sass": "^1.45.0"
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2",
+    "prettier": "^2.8.1"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.2.3",
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.8.0"
